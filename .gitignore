@@ -1,0 +1,21 @@
+__pycache__/
+logs/
+venv/
+docs/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+*.dist-info/
+*.ini
+*.log
+*.db
+*.sqlite3
+*.env
+*.venv
+.env/
+.venv/
+# Ignore Python package init files
+__init__.py
